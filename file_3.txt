@@ -1,3 +1,6 @@
 one line
 two line
 three line
+I have
+to enter
+three lines of text.
